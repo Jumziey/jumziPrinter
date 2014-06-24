@@ -1,0 +1,11 @@
+optic endstops
+gen 7 electronics
+acme rods for z-axis
+extruder???
+	Make sure to have an easy ability to switch extruder hot end assembly
+	for CNC milling eq
+	Take the rework plate and design extruder around it?
+z axis endstop
+y axis endstop
+x axis endstop
+heatbed + alu plate ontop ONLY!
