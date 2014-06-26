@@ -1,6 +1,10 @@
 #
 # Excluding Printed Parts, only for ordering
 #
+---Nothing For---
+endstops
+extruder
+
 
 ---Extra---
 Symaskinsolja (smörja)
@@ -10,41 +14,52 @@ kapton tape
 blue builders tape that work?
 1 roll PLA, 1 roll ABS
 
----Y TOTAL---
-3x Linear bearing LM8UU
+---Total--- Mech stuff
+11x Linear bearing LM8UU
+1x 624 ball bearing
 1x Ball bearing 608
-2x M3x14 mm screw
-2x Ø3 mm washer
-2x M3 nut
-1x M4x20 mm screw
-1x M4 nut
+26x M3x14 mm screw
+24x M3 nut
+24x Ø3 mm washer
+2x M4x20 mm screw
+2x M4 nut
 1x M8x30 mm screw
 1x M8 nut
-2x Ø8 mm wahser
+2x Ø8 mm washer
 34x M10 nut
 34x Ø10 mm washer
 4x Threaded rod M10x210 mm
 2x Threaded rod M10x380 mm
 2x Smooth rod Ø8x350 mm
-
-	
----X TOTAL---
-1x 624 ball bearing
-8x LM8UU linear bearing
-2x M5 nut
-1x M4x20 mm screw
-1x M4 nut
-2x M3x14 mm screw
-2x M3 nut
-	
----Connecting X and Y ---
 2x Smooth rod Ø8x320 mm
-10x M3x14 mm screw
-10x M3 nut
-10x Ø3 mm washer
-	
----Motor assembly---
-12xM3x14mm screws
-12xØ3 mm washer
-
-
+	---Y TOTAL---
+	#3x Linear bearing LM8UU
+	#1x Ball bearing 608
+	#2x M3x14 mm screw
+	#2x Ø3 mm washer
+	#2x M3 nut
+	#1x M4x20 mm screw
+	#1x M4 nut
+	#1x M8x30 mm screw
+	#1x M8 nut
+	#2x Ø8 mm wahser
+	#34x M10 nut
+	#34x Ø10 mm washer
+	#4x Threaded rod M10x210 mm
+	#2x Threaded rod M10x380 mm
+	#2x Smooth rod Ø8x350 mm
+	---X TOTAL---
+	#1x 624 ball bearing
+	#8x LM8UU linear bearing
+	#1x M4x20 mm screw
+	#1x M4 nut
+	#2x M3x14 mm screw
+	#2x M3 nut
+	---Connecting X and Y ---
+	#2x Smooth rod Ø8x320 mm
+	#10x M3x14 mm screw
+	#10x M3 nut
+	#10x Ø3 mm washer
+	---Motor assembly---
+	#12xM3x14mm screws
+	#12xØ3 mm washer
