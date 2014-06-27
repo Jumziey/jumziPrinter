@@ -16,4 +16,6 @@ heatbed + alu plate ontop ONLY!Or only glass
 	Look for taps, not only is the assembly waaay easier then, but the heat bed can be adjusted with knobs
 	Heat insulator for knobs? Must make sure they dont expand
 		maybe double washers are enough? measure temp on max!
+		Turn the knob upside down! Superior solution!
+		Bed isolation?
 	Springs for bed adjustment
