@@ -15,3 +15,4 @@ heatbed + alu plate ontop ONLY!Or only glass
 	maybe only a glass sheet after all
 	Look for taps, not only is the assembly waaay easier then, but the heat bed can be adjusted with knobs
 	Heat insulator for knobs? Must make sure they dont expand
+	Springs for bed adjustment
