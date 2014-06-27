@@ -12,3 +12,5 @@ heatbed + alu plate ontop ONLY!Or only glass
 	but i still want to be able to hand screw, with knobs the
 	bed level
 	Need to have multiple beds 1 for printing 1 for cnc
+	maybe only a glass sheet after all
+	Look for taps, not only is the assembly waaay easier then, but the heat bed can be adjusted with knobs
